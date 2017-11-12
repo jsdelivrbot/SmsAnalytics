@@ -1,8 +1,8 @@
 {
-    "name": "SMS Analytics",
-    "description": "Post a question",
-    "repository": "https://github.com/Radesh123/hackathon.git",
-    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-    "keywords": ["node", "express", "heroku"],
-    "image": "heroku/nodejs"
-  }
+  "name": "SMS Analytics",
+  "description": "Post a question",
+  "repository": "https://github.com/MalladiChaitanya/SmsAnalytics.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
